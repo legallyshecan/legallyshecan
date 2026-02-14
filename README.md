@@ -1,14 +1,14 @@
 ## Hi there 👋# Legally She Can
 
-**Legally She Can** is a legal education and brand protection platform founded by **Vena Verga-Danemar**, a lawyer turned legal-business strategist and conflict navigator based in Zurich, Switzerland.
+**Legally She Can** is a Zurich-based legal and business trust infrastructure platform founded by Vena Verga-Danemar, a licensed lawyer turned legal and business trust engineer, the TrustWright.
 
-We help coaches, consultants, and online business owners build **trust-based**, **legally aligned**, and **AI-resilient** businesses. Our work spans legal clarity, contracts, conflict navigation, and brand protection.
+We help founders and experts serving clients in Switzerland and the EU build legally aligned, trust-based infrastructure, so they are protected, positioned for growth, and irreplaceable in a digital AI world. In practice, that includes contracts, website policies, privacy and vendor compliance, trademarks, brand protection, and a consistent public footprint people can trust.
 
 ## Our Trademarks
 
-- **Legally She Can**
+- **Legally She Can®**
 - **Legally Fluent®**
-- **TrustWeaver™**
+- **TrustWright™**
 - **Trust Alchemy™**
 
 These are registered or pending trademarks of Vena Verga-Danemar and Legally She Can GmbH. Unauthorized use, imitation, or dilution may result in legal action.
@@ -20,6 +20,7 @@ These are registered or pending trademarks of Vena Verga-Danemar and Legally She
 - 🎧 Podcast: [Legally Fluent® – Online Business Decoded](https://www.legallyshecan.com/legallyfluentpodcast)  
 - 🔗 LinkedIn: [linkedin.com/company/legallyshecan](https://www.linkedin.com/company/legallyshecan)  
 - 📺 YouTube: [youtube.com/@legallyshecan](https://www.youtube.com/@legallyshecan)
+
 
 > © Vena Verga-Danemar, Legally She Can GmbH. All rights reserved.
 
