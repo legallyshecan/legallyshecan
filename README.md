@@ -1,8 +1,8 @@
 ## Hi there 👋# Legally She Can
 
-**Legally She Can** is a Zurich-based legal and business trust infrastructure platform founded by Vena Verga-Danemar, a licensed lawyer turned legal and business trust engineer, the TrustWright.
+**Legally She Can** is a Swiss-based legal and business trust consultancy with a platform of tools and programs for founders and experts serving clients in Switzerland and the European Union. Founded by Vena Verga-Danemar, a licensed lawyer turned legal and business trust engineer known as the TrustWright, we help clients build legally aligned, trust-based infrastructure so they are protected, positioned for growth, and genuinely hard to replace in a digital AI world. We provide legal services and legal-strategic support for contracts, website policies, privacy and vendor compliance, trademarks, and brand protection, alongside structured guidance that strengthens how your business is understood and trusted.
 
-We help founders and experts serving clients in Switzerland and the EU build legally aligned, trust-based infrastructure, so they are protected, positioned for growth, and irreplaceable in a digital AI world. In practice, that includes contracts, website policies, privacy and vendor compliance, trademarks, brand protection, and a consistent public footprint people can trust.
+We operate through two umbrellas: Legal Trust Infrastructure (Legally Fluent Founder, Crossroad Compass Session, Brand Protection Protocol) and Authority Identity Trust Infrastructure (TrustWright Offer).
 
 ## Our Trademarks
 
